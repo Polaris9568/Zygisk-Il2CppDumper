@@ -1,4 +1,4 @@
-一name: 111
+一name: com.sunborn.girlsfrontline.cn
 on:
   workflow_dispatch:
       inputs:
